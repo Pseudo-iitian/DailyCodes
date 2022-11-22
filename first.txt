@@ -3,3 +3,5 @@ This is to inform you that I am from KIET Group Of Institutions, Ghaziabad.
 This repository will going to be public where you can see my brute force code everyday.
 As soon as I will learn DSA, may be I will developed some algorithm then.
 
+1- git remote add origin "url"
+2- 
