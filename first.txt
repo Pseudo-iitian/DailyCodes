@@ -4,4 +4,5 @@ This repository will going to be public where you can see my brute force code ev
 As soon as I will learn DSA, may be I will developed some algorithm then.
 
 1- git remote add origin "url"
-2- 
+2- git pull --rebase origin master
+3- git push origin master
