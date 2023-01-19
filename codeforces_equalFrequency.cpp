@@ -13,6 +13,7 @@ int main(){
 			m[s[i]]++;
 		}
 		for(auto &val: m){
+			
 			cout<<val.first<<" "<<val.second<<endl;
 		}
 		m.clear();
